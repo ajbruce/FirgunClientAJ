@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/omri/Documents/GitHub/FirgunAppClient/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="310062484770ef8995c0c78582fc96aea36631cb">
+        <dex dex="/Users/omri/Documents/GitHub/FirgunAppClient/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_152854fc2d02ca97e2bcbb2165462f4cf57bbad0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/omri/Documents/GitHub/FirgunAppClient/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/omri/Documents/GitHub/FirgunAppClient/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_aef98a504cb7dc4efaf933f2618db75b99ac189e/classes.dex" />
+    </item>
+
+</items>
